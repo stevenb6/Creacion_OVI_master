@@ -1,0 +1,28 @@
+#cabecera{
+	min-height: 400px;
+	background: url('./img/caja2.jpg') no-repeat 0 -400px;
+	text-align: center;
+	color: #fff;
+}
+
+#logo-header {
+	float: left;
+	padding: 15px 0 0 20px;
+	text-decoration: none;
+}
+	#logo-header:hover {
+		color: #0b76a6;
+	}
+	
+	#logo-header .site-name {
+		display: block;
+		font-weight: 700;
+		font-size: 1.2em;
+	}
+	
+	#logo-header .site-desc {
+		display: block;
+		font-weight: 300;
+		font-size: 0.8em;
+		color: #999;
+	}
